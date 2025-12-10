@@ -53,9 +53,9 @@ cd causal-models-final-project
 pip install numpy pandas matplotlib seaborn statsmodels scikit-learn econml dowhy
 ```
 
-### Step 3: Download Data (if not included)
+### Step 3: Download Data
 
-The Criteo Uplift Modeling Dataset should be in `data/criteo-research-uplift-v2.1.csv.gz`. If not present, download from:
+The Criteo Uplift Modeling Dataset can be downloaded from:
 - [Criteo AI Lab](https://ailab.criteo.com/criteo-uplift-prediction-dataset/)
 
 ### Step 4: Run the Analysis
